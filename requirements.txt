@@ -1,3 +1,5 @@
 streamlit
 pandas
-numpy
+pillow
+google-generativeai
+streamlit-paste-button
